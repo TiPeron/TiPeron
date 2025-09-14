@@ -1,8 +1,7 @@
 ## Prazer, Tiago 👋
 - 🔭 Atualmente criando aplicações voltadas a front-end
-- 🌱 Estuando Javascript e Python
+- 🌱 Estudando C# e Python
 - ⚡ Inglês Fluente
-- 😄 Pronomes: Ele/Dele
 
 
 <div>
